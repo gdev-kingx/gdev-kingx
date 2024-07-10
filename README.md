@@ -1,6 +1,5 @@
-# 😄 Introduction:
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1113F7DA&center=true&vCenter=true&random=false&width=860&lines=Hi+There+%F0%9F%91%8B;I'm+R+Sarveshvarn+alias+%22gdev-kingx%22)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m @gdev-kingx
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Next.js and Nuxt.js
 - 💞️ I’m looking to collaborate on Web Development Projects
