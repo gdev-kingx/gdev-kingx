@@ -1,4 +1,4 @@
-![git](https://drive.google.com/file/d/1G6IA_afIJrTH_Ym-4RC4wbU-1wJo4zLp/view?usp=sharing)
+![git](gdev-kingx.png)
 
 # 💫 About Me
 
