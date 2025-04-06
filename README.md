@@ -1,6 +1,7 @@
-# 💫 Introduction
+![git](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Git.jpeg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-04-05T15%3A14%3A13.208Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F50d214c0c6d540f1%2FGit.jpeg%3FExpires%3D1838560453%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DNjQii9qNehnTNeqWL1K5~OqQGjgLM-iKozrsCTTzVgzaSVGWDS9cWEtMdyxn88eKJ7tcutSrAInVXB6ySsc3JpoAg7OJF-qSnbARfQbEUR6IgLpch-pRCpuwC-hPW10J5bUTkAPJy6svReEKw3dwoVHBa~8hAtPhwGqybgOqMBTHUzXpn-VM3RktYnC5~ImIu6ckZ7D10bE~rfQEQZO9TOMdnS0t75jDqEm84C~RqIPsz6j0btzCd4AuXInwZAEAftybmqYM2U5vRndevyGPt501u12~-PFfVZ0NK2YEm2agSioyUomBMhX0v6tGBIrZ4I0ULMmONf1~5LU2cVCTDw__%22%7D)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1113F7DA&center=true&vCenter=true&random=false&width=860&lines=Hi+There+%F0%9F%91%8B;I'm+R+Sarveshvarn+alias+%22gdev-kingx%22)](https://git.io/typing-svg)
+# 💫 About Me
+
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Next.js and Nuxt.js
 - 💞️ I’m looking to collaborate on Web Development Projects
