@@ -1,4 +1,4 @@
-![git](gdev-kingx.png)
+![git](itsSVR-tech.png)
 
 # 💫 About Me
 
