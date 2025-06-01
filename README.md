@@ -3,7 +3,7 @@
 # 💫 About Me
 
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Next.js and Nuxt.js
+- 🌱 I’m currently learning Nuxt.js
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 💬 Ask me about React Native, React, Vue, Javascript, Expo, Python
 - ⚡ Fun fact: I love to sing
