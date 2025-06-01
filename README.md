@@ -1,4 +1,4 @@
-![git](itsSVR-tech.png)
+![git](itzzSVR-tech.png)
 
 # 💫 About Me
 
