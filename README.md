@@ -16,9 +16,9 @@
 
 # 📊 Github Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=gdev-kingx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gdev-kingx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=itzzSVR-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzzSVR-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🏆 Github Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=gdev-kingx&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=itzzSVR-tech&theme=onedark)
